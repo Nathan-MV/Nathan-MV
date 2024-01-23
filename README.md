@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nathan-mv.github.io/cv/](https://nathan-mv.github.io/cv/)
 
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanmvieira) 
+- 📫 You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanmvieira) 
 
 - 📄 Know about my experiences [https://nathan-mv.github.io/cv/](https://nathan-mv.github.io/cv/)
 
